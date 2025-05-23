@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "name": "Steak",
+    "price": "Rp250.000",
+    "description": "Nasi goreng spesial dengan telur, ayam, dan bumbu rempah pilihan. Cocok untuk sarapan atau makan malam.",
+    "additionalInfo": [
+      "Porsi: 1 orang",
+      "Tingkat kepedasan: Sedang",
+      "Tersedia topping tambahan",
+      "Waktu penyajian: 15 menit"
+    ],
+    "reviews": [
+      {
+        "user": "Dina",
+        "rating": 5,
+        "comment": "Rasa nasi gorengnya enak banget, porsinya pas!"
+      },
+      {
+        "user": "Rudi",
+        "rating": 4,
+        "comment": "Lumayan enak, cuma agak pedas buat saya."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=400&q=80",
+    "name": "Sushi",
+    "price": "Rp40.000",
+    "description": "Sushi segar dengan pilihan salmon, tuna, dan alpukat. Dibuat setiap hari oleh chef profesional.",
+    "additionalInfo": [
+      "Isi: 8 potong",
+      "Disajikan dengan kecap asin dan wasabi",
+      "Bahan baku segar impor",
+      "Waktu penyajian: 10 menit"
+    ],
+    "reviews": [
+      {
+        "user": "Andi",
+        "rating": 5,
+        "comment": "Sushi-nya fresh dan enak. Worth it!"
+      },
+      {
+        "user": "Citra",
+        "rating": 4,
+        "comment": "Enak, tapi agak mahal."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?auto=format&fit=crop&w=400&q=80",
+    "name": "Waffle",
+    "price": "Rp25.000",
+    "description": "Waffle lembut dan renyah dengan sirup maple dan mentega. Nikmat disajikan hangat.",
+    "additionalInfo": [
+      "Ukuran: 10cm x 10cm",
+      "Cocok untuk sarapan atau cemilan",
+      "Dapat ditambahkan topping es krim",
+      "Waktu penyajian: 8 menit"
+    ],
+    "reviews": [
+      {
+        "user": "Tina",
+        "rating": 5,
+        "comment": "Wafflenya enak, apalagi kalau ditambah es krim!"
+      },
+      {
+        "user": "Bima",
+        "rating": 4,
+        "comment": "Rasanya pas, cuma kurang hangat saat disajikan."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=400&q=80",
+    "name": "Kopi Tubruk",
+    "price": "Rp12.000",
+    "description": "Kopi khas Indonesia dengan rasa kuat dan aroma khas. Diseduh langsung tanpa disaring.",
+    "additionalInfo": [
+      "Isi: 200ml",
+      "Menggunakan kopi lokal asli",
+      "Cocok diminum saat pagi",
+      "Waktu penyajian: 5 menit"
+    ],
+    "reviews": [
+      {
+        "user": "Yoga",
+        "rating": 5,
+        "comment": "Kopinya mantap, bikin melek!"
+      },
+      {
+        "user": "Nia",
+        "rating": 4,
+        "comment": "Aromanya enak, tapi agak pahit buat saya."
+      }
+    ]
+  }
+]

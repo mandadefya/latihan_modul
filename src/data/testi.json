@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "avatar": "user1.png",
+    "name": "Amanda Defya",
+    "comment": "Aplikasinya sangat membantu saya mencari makanan enak!"
+  },
+  {
+    "id": 2,
+    "avatar": "user2.png",
+    "name": "Rizky Wahyu",
+    "comment": "Pelayanan cepat dan produk berkualitas, sangat direkomendasikan."
+  },
+  {
+    "id": 3,
+    "avatar": "user3.png",
+    "name": "Siti Nurhaliza",
+    "comment": "Saya suka variasi menu yang disediakan, membuat saya betah berbelanja."
+  }
+]

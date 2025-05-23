@@ -1,0 +1,213 @@
+[
+    {
+      "orderId": "ORD0001",
+      "customerName": "Charles Lawrence",
+      "status": "Completed",
+      "totalPrice": "Rp 2.611.000",
+      "orderDate": "2024-08-25"
+    },
+    {
+      "orderId": "ORD0002",
+      "customerName": "Steven Martinez",
+      "status": "Pending",
+      "totalPrice": "Rp 1.182.000",
+      "orderDate": "2024-06-24"
+    },
+    {
+      "orderId": "ORD0003",
+      "customerName": "Laura Bell",
+      "status": "Completed",
+      "totalPrice": "Rp 4.112.000",
+      "orderDate": "2024-07-30"
+    },
+    {
+      "orderId": "ORD0004",
+      "customerName": "Teresa Howard",
+      "status": "Cancelled",
+      "totalPrice": "Rp 3.773.000",
+      "orderDate": "2024-10-18"
+    },
+    {
+      "orderId": "ORD0005",
+      "customerName": "Jessica Jones",
+      "status": "Completed",
+      "totalPrice": "Rp 4.591.000",
+      "orderDate": "2024-10-06"
+    },
+    {
+      "orderId": "ORD0006",
+      "customerName": "Brian Adams",
+      "status": "Pending",
+      "totalPrice": "Rp 2.100.000",
+      "orderDate": "2024-07-15"
+    },
+    {
+      "orderId": "ORD0007",
+      "customerName": "Nancy Hall",
+      "status": "Completed",
+      "totalPrice": "Rp 3.500.000",
+      "orderDate": "2024-06-02"
+    },
+    {
+      "orderId": "ORD0008",
+      "customerName": "Frank Turner",
+      "status": "Cancelled",
+      "totalPrice": "Rp 2.990.000",
+      "orderDate": "2024-09-09"
+    },
+    {
+      "orderId": "ORD0009",
+      "customerName": "Lisa Evans",
+      "status": "Pending",
+      "totalPrice": "Rp 1.700.000",
+      "orderDate": "2024-08-13"
+    },
+    {
+      "orderId": "ORD0010",
+      "customerName": "Kevin White",
+      "status": "Completed",
+      "totalPrice": "Rp 4.290.000",
+      "orderDate": "2024-07-22"
+    },
+    {
+      "orderId": "ORD0011",
+      "customerName": "Jennifer Wilson",
+      "status": "Completed",
+      "totalPrice": "Rp 3.350.000",
+      "orderDate": "2024-09-14"
+    },
+    {
+      "orderId": "ORD0012",
+      "customerName": "Gary Young",
+      "status": "Pending",
+      "totalPrice": "Rp 2.430.000",
+      "orderDate": "2024-05-19"
+    },
+    {
+      "orderId": "ORD0013",
+      "customerName": "Donna Scott",
+      "status": "Cancelled",
+      "totalPrice": "Rp 3.890.000",
+      "orderDate": "2024-08-02"
+    },
+    {
+      "orderId": "ORD0014",
+      "customerName": "Samuel Walker",
+      "status": "Completed",
+      "totalPrice": "Rp 1.120.000",
+      "orderDate": "2024-06-12"
+    },
+    {
+      "orderId": "ORD0015",
+      "customerName": "Betty Green",
+      "status": "Completed",
+      "totalPrice": "Rp 2.650.000",
+      "orderDate": "2024-07-18"
+    },
+    {
+      "orderId": "ORD0016",
+      "customerName": "Patrick Harris",
+      "status": "Cancelled",
+      "totalPrice": "Rp 3.060.000",
+      "orderDate": "2024-09-05"
+    },
+    {
+      "orderId": "ORD0017",
+      "customerName": "Diane Campbell",
+      "status": "Pending",
+      "totalPrice": "Rp 1.800.000",
+      "orderDate": "2024-05-25"
+    },
+    {
+      "orderId": "ORD0018",
+      "customerName": "Stephen Lee",
+      "status": "Completed",
+      "totalPrice": "Rp 3.940.000",
+      "orderDate": "2024-10-02"
+    },
+    {
+      "orderId": "ORD0019",
+      "customerName": "Carolyn Price",
+      "status": "Completed",
+      "totalPrice": "Rp 2.770.000",
+      "orderDate": "2024-09-22"
+    },
+    {
+      "orderId": "ORD0020",
+      "customerName": "Aaron Edwards",
+      "status": "Pending",
+      "totalPrice": "Rp 2.950.000",
+      "orderDate": "2024-06-19"
+    },
+    {
+      "orderId": "ORD0021",
+      "customerName": "Rachel Morgan",
+      "status": "Completed",
+      "totalPrice": "Rp 4.210.000",
+      "orderDate": "2024-08-11"
+    },
+    {
+      "orderId": "ORD0022",
+      "customerName": "Joshua Reed",
+      "status": "Cancelled",
+      "totalPrice": "Rp 2.330.000",
+      "orderDate": "2024-07-08"
+    },
+    {
+      "orderId": "ORD0023",
+      "customerName": "Katherine Ross",
+      "status": "Pending",
+      "totalPrice": "Rp 1.540.000",
+      "orderDate": "2024-10-10"
+    },
+    {
+      "orderId": "ORD0024",
+      "customerName": "Dennis Murphy",
+      "status": "Completed",
+      "totalPrice": "Rp 3.120.000",
+      "orderDate": "2024-09-26"
+    },
+    {
+      "orderId": "ORD0025",
+      "customerName": "Angela Bailey",
+      "status": "Completed",
+      "totalPrice": "Rp 4.000.000",
+      "orderDate": "2024-07-10"
+    },
+    {
+      "orderId": "ORD0026",
+      "customerName": "Ronald Rivera",
+      "status": "Cancelled",
+      "totalPrice": "Rp 2.620.000",
+      "orderDate": "2024-08-17"
+    },
+    {
+      "orderId": "ORD0027",
+      "customerName": "Cynthia Cooper",
+      "status": "Pending",
+      "totalPrice": "Rp 1.930.000",
+      "orderDate": "2024-06-27"
+    },
+    {
+      "orderId": "ORD0028",
+      "customerName": "Eric Richardson",
+      "status": "Completed",
+      "totalPrice": "Rp 3.980.000",
+      "orderDate": "2024-10-04"
+    },
+    {
+      "orderId": "ORD0029",
+      "customerName": "Sandra Cox",
+      "status": "Completed",
+      "totalPrice": "Rp 4.180.000",
+      "orderDate": "2024-08-01"
+    },
+    {
+      "orderId": "ORD0030",
+      "customerName": "Jackie Patterson",
+      "status": "Pending",
+      "totalPrice": "Rp 2.370.000",
+      "orderDate": "2024-09-12"
+    }
+  ]
+  
