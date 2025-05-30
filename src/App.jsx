@@ -34,8 +34,11 @@ const Forgot = React.lazy(() => import("./pages/auth/Forgot"));
 const User = React.lazy(() => import("./pages/User"));
 const GuestLayout = React.lazy(() => import("./layouts/GuestLayout"));
 const GuestDashboard = React.lazy(() => import("./pages/guest/GuestDashboard"));
-const CekKetersediaan = React.lazy(() => import("./pages/guest/CekKetersediaanProduct"));
-
+const Products = React.lazy(() => import("./pages/Product"));
+const ProductDetail = React.lazy(() => import("./pages/ProductDetail"));
+const CekKetersediaan = React.lazy(() =>
+  import("./pages/guest/CekKetersediaanProduct")
+);
 
 function App() {
   const [count, setCount] = useState(0);
@@ -44,6 +47,8 @@ function App() {
     <Suspense fallback={<Loading />}>
       <Routes>
         <Route element={<MainLayout />}>
+          <Route path="products" element={<Products />} />
+          <Route path="/products/:id" element={<ProductDetail />} />
           <Route path="/" element={<Dashboard />} />
           <Route path="/orders" element={<Orders />} />
           <Route path="/customers" element={<Customer />} />
@@ -59,7 +64,11 @@ function App() {
 
         <Route element={<GuestLayout />}>
           <Route path="/guest" element={<GuestDashboard />} />
-          <Route path="/cek-ketersediaan-produk" element={<CekKetersediaan />} />  {/* Tambah route ini */}
+          <Route
+            path="/cek-ketersediaan-produk"
+            element={<CekKetersediaan />}
+          />{" "}
+          {/* Tambah route ini */}
         </Route>
 
         <Route path="*" element={<NotFound />} />

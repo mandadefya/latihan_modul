@@ -1,3 +1,4 @@
+import { MdFastfood } from "react-icons/md"; 
 import { BsFillPeopleFill } from "react-icons/bs";
 import { AiOutlineShoppingCart } from "react-icons/ai";
 import { MdDashboard } from "react-icons/md";
@@ -23,11 +24,11 @@ export default function ListMenu() {
           </NavLink>
         </li>
         <li>
-            <NavLink id="menu-4" to="/user" className={menuClass}>
-              <FaUsers className="mr-4 text-xl" />
-              <span>User</span>
-            </NavLink>
-          </li>
+          <NavLink id="menu-4" to="/user" className={menuClass}>
+            <FaUsers className="mr-4 text-xl" />
+            <span>User</span>
+          </NavLink>
+        </li>
         <li>
           <NavLink id="menu-2" to="/Orders" className={menuClass}>
             <AiOutlineShoppingCart className="mr-4 text-xl" />
@@ -40,10 +41,19 @@ export default function ListMenu() {
             <span>Customer</span>
           </NavLink>
         </li>
+        
+          <li>
+            <NavLink id="menu-4" to="/products" className={menuClass}>
+              <MdFastfood className="mr-4 text-xl" />
+              Products
+            </NavLink>
+          </li>
+        
         <NavLink id="menu-2" to="/fff" className={menuClass}>
           <MdError className="mr-4 text-xl" />
           <span>OrdersList</span>
         </NavLink>
+
         <li>
           <NavLink to="/error/400" className={menuClass}>
             <MdError className="mr-4 text-xl text-red-500" />
